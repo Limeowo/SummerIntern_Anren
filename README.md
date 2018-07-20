@@ -1,9 +1,9 @@
-# SummerIntern_Anren
-Records of my summer internship life, to ruminate, to improve and to share.
+# Summer Internship in Anren
+Records of my summer internship life, being kept to ruminate, improve and share.
 
 > ## Contents 
 > + WeeklyLog in Anren
 > + New softwares and new skills
 
 # ChangeLog
-*Created by Limeowo,  in 2017/7/20*
+20180720 Created by Limeowo.
