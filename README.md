@@ -2,7 +2,7 @@
 Records of my summer internship life, being kept to ruminate, improve and share.
 
 > ## Contents 
-> + WeeklyLog in Anren
+> + DailyLog & WeeklyLog in Anren
 > + New softwares and new skills
 
 # ChangeLog
